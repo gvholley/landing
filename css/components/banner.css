@@ -1,0 +1,22 @@
+#banner {
+  background-image: url(https://images.unsplash.com/photo-1582828462913-ff94884827ba?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=666&q=80);
+  padding: 150px 0;
+  text-align: center;
+  color: white;
+}
+
+#banner p {
+  color: white;
+  font-size: 30px;
+  font-weight: lighter;
+  text-shadow: 10px;
+
+}
+
+#banner p {
+  color: white;
+  font-size: 30px;
+  font-weight: lighter;
+  text-shadow: 10px;
+
+}

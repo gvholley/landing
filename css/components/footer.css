@@ -1,0 +1,20 @@
+#footer {
+  background: black;
+  color: white;
+  font-size: 40px;
+  padding: 30px;
+}
+#footer a {
+  font-size: 40px;
+  color: grey;
+}
+#footer a:hover {
+  color: white;
+}
+.inline-list{
+    display: inline-flex;
+    list-style: none;
+    padding-left: 15px !important;
+    padding-right: 15px !important;
+    font-size: 48px;
+}
